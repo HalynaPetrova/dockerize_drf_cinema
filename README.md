@@ -23,7 +23,7 @@ Make sure that docker is working properly on your machine
 Install PostgresSQL and create db
 
 - git clone git@github.com:HalynaPetrova/dockerize_drf_cinema.git
-- cd cinema_API
+- cd dockerize_drf_cinema
 - python -m venv venv
 - source venv/bin/activate
 - pip install -r requirements.txt
